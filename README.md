@@ -1,8 +1,8 @@
 # sobre mim
 - 👋 olá, meu nome é @guizinxt07
-- 👀 meu email de contato é skamdsaplayer12@gmail.com
+- meu email de contato é skamdsaplayer12@gmail.com
 - 👀 estou interessado a aprender a programar novas linguagens.
-- 🌱 eu estou aprendendo a progamar a progamar recentemente.
+- 🌱 eu estou aprendendo a progamar recentemente.
 - 👋 estou no 1°ano do ensino medio em pensamento computacional
 
 <!---
